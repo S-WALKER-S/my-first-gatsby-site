@@ -5,6 +5,12 @@
  */
 
 module.exports = {
+  siteMetadata:{
+    title: "My First Gatsby Site",
+  },
   /* Your site config here */
-  plugins: [],
+  plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp"
+  ],
 }
