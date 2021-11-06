@@ -5,7 +5,6 @@
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
-<<<<<<< HEAD
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
@@ -28,8 +27,5 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
-=======
-    "develop": "gatsby develop"
->>>>>>> 15abbd78cf77a7c7ca8e972e27880c4522d886f8
   }
 }
